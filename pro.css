@@ -1,0 +1,22 @@
+.container{
+    height: 500px;
+    width: 500px;
+    margin: auto;
+    background-color: rgb(237, 242, 242);
+    border: black;
+}
+img{
+    height: 300px;
+    width: 300px;
+    margin-left: 120px;
+}
+button{
+     height: 60px;
+    width: 140px;
+    text-transform: uppercase;
+    margin: 50px;
+    margin-left: 180px;
+    background-color: rgb(55, 85, 116);
+    color: white;
+    cursor: pointer;
+}
